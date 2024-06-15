@@ -1,3 +1,4 @@
+#include "notes.h"
 const int tetris[] PROGMEM = {
 
   //Based on the arrangement at https://www.flutetunes.com/tunes.php?id=192
@@ -32,4 +33,3 @@ const int tetris[] PROGMEM = {
   NOTE_C5,4,   NOTE_E5,4,  NOTE_A5,2,
   NOTE_GS5,2,
 };
-

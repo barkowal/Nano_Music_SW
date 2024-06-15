@@ -1,3 +1,4 @@
+#include "notes.h"
 const int mario[] PROGMEM = {
 
   // Super Mario Bros theme
@@ -89,4 +90,3 @@ const int mario[] PROGMEM = {
   NOTE_G4,8, NOTE_D4,8, NOTE_E4,-2,  
 
 };
-

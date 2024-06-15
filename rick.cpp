@@ -1,3 +1,4 @@
+#include "notes.h"
 const int rick[] PROGMEM = {
 
   // Never Gonna Give You Up - Rick Astley
@@ -71,4 +72,3 @@ const int rick[] PROGMEM = {
 
   NOTE_E5,4, NOTE_D5,2, REST,4
 };
-

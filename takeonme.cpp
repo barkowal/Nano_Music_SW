@@ -1,4 +1,4 @@
-
+#include "notes.h"
 const int takeonme[] PROGMEM = {
 
   // Take on me, by A-ha
@@ -21,4 +21,3 @@ const int takeonme[] PROGMEM = {
   REST,8, NOTE_FS5,8, REST,8, NOTE_FS5,8, NOTE_E5,8, NOTE_E5,8, NOTE_FS5,8, NOTE_E5,8,
   
 };
-

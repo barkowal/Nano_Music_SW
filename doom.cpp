@@ -1,3 +1,4 @@
+#include "notes.h"
 const int doom[] PROGMEM  = {
 
   // At Doom's Gate (E1M1)
@@ -115,4 +116,3 @@ const int doom[] PROGMEM  = {
   NOTE_E2, 8, NOTE_E2, 8, NOTE_E3, 8, NOTE_E2, 8, NOTE_E2, 8, NOTE_D3, 8, NOTE_E2, 8, NOTE_E2, 8,
   NOTE_B3, -16, NOTE_G3, -16, NOTE_E3, -16, NOTE_B2, -16, NOTE_E3, -16, NOTE_G3, -16, NOTE_C4, -16, NOTE_B3, -16, NOTE_G3, -16, NOTE_B3, -16, NOTE_G3, -16, NOTE_E3, -16,
 };
-

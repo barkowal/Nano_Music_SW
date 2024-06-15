@@ -1,3 +1,7 @@
+#ifndef notes_h
+#define notes_h
+
+#include <Arduino.h>
 
 #define NOTE_B0  31
 #define NOTE_C1  33
@@ -90,3 +94,4 @@
 #define NOTE_DS8 4978
 #define REST      0
 
+#endif
